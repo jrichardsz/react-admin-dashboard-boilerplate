@@ -1,6 +1,8 @@
 # react-admin-dashboard-boilerplate
 A react boilerplate for an admin dashboard with a basic features.
 
+![home-page](home-page.png)
+
 ## Development Tools & packages
 
 This boilerplate is written in ES6 and uses the following libraries / frameworks / packages and so:
